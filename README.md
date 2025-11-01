@@ -30,8 +30,4 @@ Welcome to the **India Tourism Website**, a purely HTML-based project designed t
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/india-tourism-website.git
-
-
-## 📂 Project Structure
-
+   (https://surya63023.github.io/sixth-html-indian-tourism-website/)
